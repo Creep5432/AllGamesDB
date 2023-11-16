@@ -3,8 +3,14 @@
   "Games":[
     {
       "Name":"Multiplayer Testing Grounds (Remake)",
-      "Description":"A remake of my original 2021 online multiplayer Pocket Code game!",
+      "Description":"A remake of my original 2021 online multiplayer Pocket Code game.",
       "DownloadLink":"https://creep5432.itch.io/mtg",
+      "Thumbnail":"tbd"
+    },
+    {
+      "Name":"Dice Shall Die!",
+      "Description":"A multiplayer shooter game where you play as a die.",
+      "DownloadLink":"https://creep5432.itch.io/dsd",
       "Thumbnail":"tbd"
     }
   ]
